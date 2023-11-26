@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Aziz</h1>
 <h3 align="center">A passionate Machine Learning Expert from Pakistan</h3>
 
-<img align="right" alt="working" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3HpNcg5CrRI-xZpu99gQtm&ust=1701117866738000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDez4LE4oIDFQAAAAAdAAAAABAI](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="working" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3HpNcg5CrRI-xZpu99gQtm&ust=1701117866738000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDez4LE4oIDFQAAAAAdAAAAABAI](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizkashif49" alt="azizkashif49" /></a> </p>
 
