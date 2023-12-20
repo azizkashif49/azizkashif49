@@ -35,9 +35,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hunzaikashif49"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hunzaikashif49" /></a><a href="https://ko-fi.com/azizkashif49"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="azizkashif49" /></a></p><br><br>
 
-<img align="right" alt="working" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="working" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizkashif49&show_icons=true&locale=en&layout=compact" alt="azizkashif49" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizkashif49&show_icons=true&locale=en" alt="azizkashif49" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizkashif49&" alt="azizkashif49" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizkashif49&" alt="azizkashif49" /></p> -->
